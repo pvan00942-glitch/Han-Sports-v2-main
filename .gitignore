@@ -1,0 +1,13 @@
+.idea/
+*.iml
+
+hansport_v2be/target/
+hansport_v2be/upload/
+
+hansport_v2fe/node_modules/
+hansport_v2fe/dist/
+hansport_v2fe/.vite/
+
+*.log
+.env
+.env.local
